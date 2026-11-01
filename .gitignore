@@ -1,0 +1,17 @@
+# Entornos Virtuales
+venv/
+.venv/
+env/
+.env
+
+# Caché compilada de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de registro (logs)
+*.log
+logistics.log
+
+# Configuraciones locales de VS Code
+.vscode/
